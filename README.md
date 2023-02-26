@@ -13,7 +13,7 @@ Blippoo for Wingie is an alternative firmware for Wingie2. The new firmware is i
 
 The new firmware could turn your Wingie2 into a self-contained instrument capable of producing a variety of sounds and patterns. As a great companion, it will help you in your music-making practice especially when you want to applicate controlled chaos in your music.
 
-## 刷机 Flash to your Wingie2
+## 刷机 Flash your Wingie2
 
 使用右侧 Release 中的上传包进行操作
 
