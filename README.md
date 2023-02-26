@@ -1,6 +1,6 @@
 ![IMG_0680](https://user-images.githubusercontent.com/4593629/221398091-5ffaa81e-75b7-4404-9000-95bfe4823a8d.jpeg)
 
-# bfw
+# Blippoo for Wingie
 Blippoo for Wingie 是一款小羽二代的替代固件，受到合成器设计师 Rob Hordijk（1958-2022）的作品 Blippoo Box 启发。
 
 愿他的精神在他的乐器设计、思想和影响中得到延续。
